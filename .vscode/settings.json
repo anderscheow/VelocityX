@@ -1,10 +1,10 @@
 {
-    "cSpell.words": [
-        "autofocus",
-        "dartpad",
-        "Kumar",
-        "Pawan"
-    ],
-    "dart.flutterSdkPath": "/Users/pawankumar/.puro/envs/stable/flutter",
-    "dart.sdkPath": "/Users/pawankumar/.puro/envs/stable/flutter/bin/cache/dart-sdk"
+  "cSpell.words": [
+    "autofocus",
+    "dartpad",
+    "Kumar",
+    "Pawan"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.29.0",
+  "dart.sdkPath": "/Users/pawankumar/.puro/envs/stable/flutter/bin/cache/dart-sdk"
 }
